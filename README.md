@@ -1,4 +1,4 @@
 scala-algorithms
 ================
 
-Cliqqs backend algorithms in scala 
+Cliq's backend algorithms in scala 
